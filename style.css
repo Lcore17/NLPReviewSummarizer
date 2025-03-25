@@ -1,0 +1,107 @@
+/* css/styles.css */
+.main {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: #ffffff;
+}
+
+.sidebar .sidebar-content {
+    background: #0f3460 !important;
+}
+
+.stTextArea textarea {
+    height: 150px !important;
+    background-color: #1b1b2f !important;
+    color: #e6e6e6 !important;
+    border-radius: 10px;
+    border: 1px solid #2a2a4a;
+}
+
+.highlight {
+    background-color: #4ecdc4;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: #1a1a2e;
+}
+
+.metric-card {
+    background: #1b1b2f;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    border-left: 5px solid #4ecdc4;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-header {
+    color: #4ecdc4;
+    border-bottom: 2px solid #4ecdc4;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.plot-container {
+    background: #1b1b2f;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+.tab-content {
+    padding: 20px;
+    background: #1b1b2f;
+    border-radius: 15px;
+    margin-top: 1rem;
+}
+
+.entity-table {
+    background: #1b1b2f !important;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.sunburst-chart {
+    background: #1b1b2f;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.wordcloud-container {
+    text-align: center;
+    padding: 20px;
+    background: #1b1b2f;
+    border-radius: 15px;
+    margin: 15px 0;
+}
+
+.temporal-chart {
+    background: #1b1b2f;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.metric-card {
+    background: #2a2b3d;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.metric-card h3 {
+    color: #a2a3b7;
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.metric-card h1 {
+    color: #4ecdc4;
+    margin: 10px 0;
+    font-size: 2.5rem;
+}
+
+.plot-container {
+    background: #1b1b2f;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+}
